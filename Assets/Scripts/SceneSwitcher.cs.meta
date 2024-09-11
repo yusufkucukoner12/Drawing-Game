@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 721817394e04d994a86f9be5fba0230e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasTexture1: {fileID: 2800000, guid: 19d2256722b81c248b3374ab1ce546c6, type: 3}
+  - canvasTexture2: {instanceID: 0}
+  - canvasTexture3: {instanceID: 0}
+  - canvasTexture4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
